@@ -1,2 +1,2 @@
-# mongoose-os-ttgo-t-call-mdash
-This Ripo have Mongoose OS firmware for TTGO T-Call also mDash Support
+# mongoose-os-ttgo-t-call-GPS
+Trying to use Mongoose OS for TTGO TCALL GPS TRACKING
